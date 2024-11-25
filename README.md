@@ -1,7 +1,7 @@
 # Explicação do Código `Menu`
 
 ## Descrição Geral
-Este código define um componente React chamado `Menu` que exibe uma lista de pratos usando o componente `Media` do `reactstrap`.
+As mudanças feitas do componente React chamado `Menu` que exibe uma lista de pratos usando o componente `Media` do `reactstrap`.
 
 ---
 
@@ -16,8 +16,8 @@ Este código define um componente React chamado `Menu` que exibe uma lista de pr
      - `id`: Identificador único.
      - `name`: Nome do prato.
      - `image`: Caminho para a imagem do prato.
-     - `category`: Categoria do prato (e.g., appetizer, mains).
-     - `label`: Etiqueta especial (e.g., "Hot", "New").
+     - `category`: Categoria do prato.
+     - `label`: Etiqueta especial.
      - `price`: Preço do prato.
      - `description`: Descrição detalhada do prato.
 
