@@ -59,9 +59,9 @@ Foi importado os components para o `App.js` e chamado logo em seguida.
 
 ## Breve Descrição das Alterações
 
-- Organização do código para melhorar a leitura.
+- Organizaçao do código para melhorar a leitura.
 - Ajuste na identação dos arquivos `MenuComponent.js` e `dishes.js`.
-- Revisão dos componentes e funções com explicações sobre funcionalidades.
+- Revisao dos componentes e funçoes com explicaçoes sobre funcionalidades do app.
 
 ---
 
